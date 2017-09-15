@@ -1,3 +1,3 @@
 # -SpringMVC
 
-Projetos para estudar SringMVC
+Projetos para estudar SpringMVC
