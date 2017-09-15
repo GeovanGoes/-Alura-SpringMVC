@@ -40,7 +40,7 @@ public class ContaDAO {
 		}
 	}
 
-	public void i(Conta conta) {
+	public void adiciona(Conta conta) {
 		String sql = "insert into contas (descricao, paga, valor, tipo) values (?,?,?,?)";
 		PreparedStatement stmt;
 		try {
